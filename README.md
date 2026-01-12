@@ -70,11 +70,16 @@ The database structure as seen below consists of one table with a total row coun
 
 <img width="500" height="580" alt="image" src="https://github.com/user-attachments/assets/e45c1dfd-c6c7-4618-937f-0e590d0177c5" />
 
-	**Churn by Education and Geography** 
+**Churn by Education and Geography** 
+
+<br>
+
 -	Churn rate by education indicates similar rate for customers with high school (31%), masters (32%) and bachelor’s diploma (33%). On the other hand, customers with PhD education are more likely to churn (40%).  
 -	Location does not have a significant impact on churn. Customers from Germany, Spain and France have a very similar churn rate. 
 
 <img width="872" height="385" alt="image" src="https://github.com/user-attachments/assets/d80e14bc-b866-467e-9f3d-1fcdb7b32471" />
+
+<br>
 
 **Churn by Member Activity and Possession of Credit Card** 
 -	Churn rate varies whether customer is an active member or not. On Average, nonactive members are more likely to get churned by more than 20% compared to active members.  
