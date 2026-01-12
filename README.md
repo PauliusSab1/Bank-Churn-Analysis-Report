@@ -87,14 +87,14 @@ The database structure as seen below consists of one table with a total row coun
 
  ### <p align= 'center'> Churn by Numerical Values
 
- <img width="450" height="550" alt="image" src="https://github.com/user-attachments/assets/7c122210-cce5-4588-a9f0-0cee16be054f" />
+ <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/7c122210-cce5-4588-a9f0-0cee16be054f" />
 
  **Churn rate by Credit score** 
 -	Credit scores can be a big indicator for potential churned customers. We divided customers to four different credit bands: bands with poor credit (lower than 500 points), fair credit (500- 650 points), good credit (650-750 points), and excellent credit (750+).   
 -	Customers with poor credit scores are more likely to churn by 10.1% when compared to customers with excellent credit scores. 
 -	Customers with fair, good and excellent credit scores have similar churn rates and there is no significant difference between them.
 
-  <img width="500" height="650" alt="image" src="https://github.com/user-attachments/assets/7b6f9ab6-cacd-45b3-acbf-9a4d5c2dd7e6" />
+  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/7b6f9ab6-cacd-45b3-acbf-9a4d5c2dd7e6" />
 
 **Churn rate by Inactive Months**
 -	This graph indicates churn rate by inactive months by members ranging from 0 months to 11 months   
