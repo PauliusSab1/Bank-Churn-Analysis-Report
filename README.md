@@ -134,7 +134,6 @@ The database structure as seen below consists of one table with a total row coun
 -	Customers inactive for 5+ months are more likely to get churned by 15-18%.
 	-	Establish inactivity trigger (for example, 3 months no activity) helping to re-engage distracted visitors with offers, support, or reminders before they leave.
 
-
 -	Customers with excellent credit score and 4 products churn at a much lower rate (23%) compared to average number (32%) 
 	-	Target customer segment with excellent credit score and offer business products such as savings account, credit card and low- risk financial tools because they are less likely to leave business. 
 
