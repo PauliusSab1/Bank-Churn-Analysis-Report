@@ -1,4 +1,4 @@
-<p align= 'center'> <img width="240" height="180" alt="image" src="https://github.com/user-attachments/assets/f3c2dfa4-088b-4200-8f65-32e942cc9105" />
+<p align= 'center'> <img width="240" height="190" alt="image" src="https://github.com/user-attachments/assets/f3c2dfa4-088b-4200-8f65-32e942cc9105" />
 
 # <p align= 'center'> Store Performance Report
 
