@@ -45,10 +45,13 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-<img width="580" height="650" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
+<img width="480" height="550" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
+
+<br>
 
 ## <p align= 'center'> Target Variable Analysis (Churn)
 
+<br>
 
 ## <p align= 'center'> % Churned vs Retained Customers
 
