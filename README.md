@@ -124,7 +124,7 @@ The database structure as seen below consists of one table with a total row coun
 - 	Bank customers with excellent credit score and 4 products in use are less likely to get churned (9% less compared to average rate). 
 -	Number of products in use is not a significant factor for Bank customers with poor, fair or good credit. Number of products affects only 1-4% churn rate for this customer segment.
 
-  <img width="488" height="131" alt="image" src="https://github.com/user-attachments/assets/20b82c44-da33-4287-8193-422725a31055" />
+  <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/20b82c44-da33-4287-8193-422725a31055" />
 
 <br>
 
