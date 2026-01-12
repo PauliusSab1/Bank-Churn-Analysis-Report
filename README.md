@@ -1,3 +1,6 @@
+
+![2-citizen-1024x1024 jpg](https://github.com/user-attachments/assets/d91656bd-7190-4ff5-a345-345d6eb20300)
+
 <p align= 'center'> <img width="240" height="190" alt="image" src="https://github.com/user-attachments/assets/f3c2dfa4-088b-4200-8f65-32e942cc9105" />
 
 # <p align= 'center'> Store Performance Report
