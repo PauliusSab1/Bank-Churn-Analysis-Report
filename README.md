@@ -70,7 +70,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-<img width="500" height="620" alt="image" src="https://github.com/user-attachments/assets/e45c1dfd-c6c7-4618-937f-0e590d0177c5" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/e45c1dfd-c6c7-4618-937f-0e590d0177c5" />
 
 <br>
 
