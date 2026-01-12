@@ -84,7 +84,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d80e14bc-b866-467e-9f3d-1fcdb7b32471" />
+<img width="650" height="350" alt="image" src="https://github.com/user-attachments/assets/d80e14bc-b866-467e-9f3d-1fcdb7b32471" />
 
 <br>
 
@@ -123,7 +123,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/a75a5306-acbe-4250-8f29-e06b74151d4a" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a75a5306-acbe-4250-8f29-e06b74151d4a" />
 
 <br>
 
