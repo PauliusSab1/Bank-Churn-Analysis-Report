@@ -165,8 +165,6 @@ The database structure as seen below consists of one table with a total row coun
   
 ## <p align= 'center'> Recommendations
 
-<br>
-
 ### Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis:
   
 **Customers with short tenure (0-12months) show significantly higher churn – especially when combined with inactivity (47% churn rate).** 
