@@ -33,9 +33,9 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
   - Customers who become inactive within their first year have a substantially higher probability of churning compared to long – tenure or consistently active customers.
 
 **3. Business should focus on retention efforts:**
-  1)  early customer engagement.
-     2) implementing triggers for inactive members.
-  3)	promoting multi – product adoption to increase customer retention.   
+1)  early customer engagement.
+2) implementing triggers for inactive members.
+3)	promoting multi – product adoption to increase customer retention.   
 
 <br>
 
