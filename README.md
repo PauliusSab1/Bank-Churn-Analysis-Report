@@ -51,8 +51,6 @@ The database structure as seen below consists of one table with a total row coun
 
 ## <p align= 'center'> Target Variable Analysis (Churn)
 
-<br>
-
 ## <p align= 'center'> % Churned vs Retained Customers
 
 <br>
@@ -66,12 +64,13 @@ The database structure as seen below consists of one table with a total row coun
 
 ## <p align= 'center'> Insights Deep-Dive
 
-
 ### <p align= 'center'> Churn by Category
 
 <br>
 
 <img width="500" height="580" alt="image" src="https://github.com/user-attachments/assets/e45c1dfd-c6c7-4618-937f-0e590d0177c5" />
+
+<br>
 
 **Churn by Education and Geography** 
 
@@ -79,6 +78,8 @@ The database structure as seen below consists of one table with a total row coun
 
 -	Churn rate by education indicates similar rate for customers with high school (31%), masters (32%) and bachelor’s diploma (33%). On the other hand, customers with PhD education are more likely to churn (40%).  
 -	Location does not have a significant impact on churn. Customers from Germany, Spain and France have a very similar churn rate. 
+
+<br>
 
 <img width="872" height="385" alt="image" src="https://github.com/user-attachments/assets/d80e14bc-b866-467e-9f3d-1fcdb7b32471" />
 
@@ -88,27 +89,41 @@ The database structure as seen below consists of one table with a total row coun
 -	Churn rate varies whether customer is an active member or not. On Average, nonactive members are more likely to get churned by more than 20% compared to active members.  
 -	Credit cards are not a significant factor for churn. Bank customers without a credit card are more likely to get churned only by 2.9% compared to a customer with a credit card.  
 
+<br>
+
  ### <p align= 'center'> Churn by Numerical Values
 
  <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/7c122210-cce5-4588-a9f0-0cee16be054f" />
+
+<br>
 
  **Churn rate by Credit score** 
 -	Credit scores can be a big indicator for potential churned customers. We divided customers to four different credit bands: bands with poor credit (lower than 500 points), fair credit (500- 650 points), good credit (650-750 points), and excellent credit (750+).   
 -	Customers with poor credit scores are more likely to churn by 10.1% when compared to customers with excellent credit scores. 
 -	Customers with fair, good and excellent credit scores have similar churn rates and there is no significant difference between them.
 
+<br>
+
   <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/7b6f9ab6-cacd-45b3-acbf-9a4d5c2dd7e6" />
+
+<br>
 
 **Churn rate by Inactive Months**
 -	This graph indicates churn rate by inactive months by members ranging from 0 months to 11 months   
 -	There is a huge shift in churn rate when customers reach 5 inactive months. Customers with 5 or more inactive months are more likely to get churned by 14-18% depending on number of inactive months.
 
+<br>
+
 	 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/a75a5306-acbe-4250-8f29-e06b74151d4a" />
+
+<br>
 
 **Churn rate by Tenure Group**
 -   Customers with lower tenure tend to churn faster. New clients who use bank services for a year or less are 9% more likely to get churned compared to customers with higher tenure rates.
 
   ### <p align= 'center'> Multivariate Analysis
+
+<br>
 
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/d18b867d-3afa-406e-b0d2-6736fc0b1d75" />
 
