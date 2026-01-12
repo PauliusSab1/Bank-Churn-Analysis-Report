@@ -24,7 +24,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 <br>
 
-	## <p align= 'center'> Executive Summary
+## <p align= 'center'> Executive Summary
 
 **Churn is driven primarily by customer behavior rather than demographics.** 
   -	Customers with short tenure, extended periods of inactivity and single product engagement exhibit significantly higher churn rates while location, gender or age does not have a big impact on churn. 
@@ -54,7 +54,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-<img width="347" height="733" alt="image" src="https://github.com/user-attachments/assets/a995a919-bcdc-4e79-a5df-00019d800a89" />
+<img width="347" height="500" alt="image" src="https://github.com/user-attachments/assets/a995a919-bcdc-4e79-a5df-00019d800a89" />
 
 -	Out of 5000 customers, 1610 customers closed their accounts and left Citizen Savings Bank. This number indicates a **churn rate of 32.2%.** 
 -	Only **67.8%** of customers remained with business and continued to use Citizen Savings Bank services.  
