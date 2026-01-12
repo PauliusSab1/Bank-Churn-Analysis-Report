@@ -11,7 +11,7 @@
 
 In a highly competitive European financial market, customer acquisition and retention is essential for long-term profitability. However, rising churn rates have emerged as a significant operational and financial challenge for the bank. In response, Citizen Savings Bank is investing in advanced data analytics to better understand the drivers of customer attrition and develop targeted strategies to enhance client satisfaction and retention.
 
-Citizen Savings Bank book of business has **5000** unique customers and includes many different variables such as, age, credit score, member activity and churn status.
+Citizen Savings Bank book of business has **5000** unique customers and includes many different variables such as, **age**, **credit score**, **member activity** and **churn status**.
 
 Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate Citizen Savings Bank performance. This project demonstrates how structured EDA and interaction analysis can uncover meaningful churn drivers and support strategic decision – making.
 
@@ -45,7 +45,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-<img width="480" height="550" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
 
 <br>
 
