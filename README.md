@@ -34,7 +34,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 **3. Business should focus on retention efforts:**
   1)  early customer engagement.
-  2)	implementing triggers for inactive members.
+     2) implementing triggers for inactive members.
   3)	promoting multi – product adoption to increase customer retention.   
 
 <br>
@@ -80,7 +80,7 @@ The database structure as seen below consists of one table with a total row coun
 
 **Churn by Education and Geography** 
 -	Churn rate by education indicates similar rate for customers with high school (31%), masters (32%) and bachelor’s diploma (33%). On the other hand, customers with PhD education are more likely to churn (40%).  
--	Location does not have a significant impact on churn. Customers from Germany, Spain and France have a very similar churn rate. 
+-	Demographics variables (such as location, age or gender) does not have a big impact on churn. Customers from Germany, Spain and France have a very similar churn rate. 
 
 <br>
 
