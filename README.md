@@ -22,7 +22,9 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 - **Univariate Analysis** – focusing on churn rate for single categorial variables such as education, location, members activity status and credit card possession as well as numerical variables including credit scores, months inactive and tenure groups. 
 -	**Multivariate Analysis** – interaction analysis evaluating how two combined variables affect each other for potentially increased churn risk.
 
--	## <p align= 'center'> Executive Summary
+<br>
+
+	## <p align= 'center'> Executive Summary
 
 **Churn is driven primarily by customer behavior rather than demographics.** 
   -	Customers with short tenure, extended periods of inactivity and single product engagement exhibit significantly higher churn rates while location, gender or age does not have a big impact on churn. 
@@ -35,16 +37,22 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
   2.	implementing triggers for inactive members.
   3.	promoting multi – product adoption to increase customer retention.   
 
+<br>
+
 ## <p align= 'center'> Dataset Structure 
 
 The database structure as seen below consists of one table with a total row count of **5000** records.
 
-<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
+<br>
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
 
 ## <p align= 'center'> Target Variable Analysis (Churn)
 
 
 ## <p align= 'center'> % Churned vs Retained Customers
+
+<br>
 
 <img width="347" height="733" alt="image" src="https://github.com/user-attachments/assets/a995a919-bcdc-4e79-a5df-00019d800a89" />
 
