@@ -95,4 +95,40 @@ The database structure as seen below consists of one table with a total row coun
  **Tenure X inactivity level**
 -	Inactive and low tenure customers are more likely to get churned compared to active members with higher tenure. 
 -	Customers who have used bank services for more than 3 years and are active members possess a churn rate of 22% which is 10% less than the average churn rate.
--	New inactive customers (with 12 or less months tenure) are very likely to leave business with 47% chance of churn. 
+-	New inactive customers (with 12 or less months tenure) are very likely to leave business with 47% chance of churn.
+
+<img width="491" height="308" alt="image" src="https://github.com/user-attachments/assets/56bc9809-bdb3-4e79-834b-847493b960c1" />
+
+**Credit Score X Number Of Products**
+- 	Bank customers with excellent credit score and 4 products in use are less likely to get churned (9% less compared to average rate). 
+-	Number of products in use is not a significant factor for Bank customers with poor, fair or good credit. Number of products affects only 1-4% churn rate for this customer segment.
+
+  <img width="488" height="131" alt="image" src="https://github.com/user-attachments/assets/20b82c44-da33-4287-8193-422725a31055" />
+
+**Credit Score X Number Of Products**
+-	Inactive members of Citizen Savings Bank are more likely to get churned compared to active members in all three locations. 
+-	In Spain, inactive members are more likely to get churned and leave business by 22%, France by 21% and Germany by 18% compared to active members.
+  
+## <p align= 'center'> Recommendations
+
+<br>
+
+**Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis:**
+  
+-	Customers with short tenure (0-12months) show significantly higher churn – especially when combined with inactivity (47% churn rate). 
+	-	Business should launch a 90 – day onboarding & engagement program to reduce early-stage churn and increase long – term customer lifetime value. 
+
+-	Customers inactive for 5+ months are more likely to get churned by 15-18%.
+	-	Establish inactivity trigger (for example, 3 months no activity) helping to re-engage distracted visitors with offers, support, or reminders before they leave.
+
+
+
+
+-	Customers with excellent credit score and 4 products churn at a much lower rate (23%) compared to average number (32%) 
+	-	Target customer segment with excellent credit score and offer business products such as savings account, credit card and low- risk financial tools because they are less likely to leave business. 
+
+-	Customers with poor credit scores (39% churn rate) and low engagement (44% churn rate) represent the highest churn risk. 
+	-	Provide free credit score monitoring and improvement tips within the bank’s app.
+	-	Offer credit-building loan products and financial literacy resources to support customers with lower credit scores and low engagement. 
+
+
