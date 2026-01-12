@@ -87,27 +87,27 @@ The database structure as seen below consists of one table with a total row coun
 
  ### <p align= 'center'> Churn by Numerical Values
 
- <img width="519" height="631" alt="image" src="https://github.com/user-attachments/assets/7c122210-cce5-4588-a9f0-0cee16be054f" />
+ <img width="450" height="550" alt="image" src="https://github.com/user-attachments/assets/7c122210-cce5-4588-a9f0-0cee16be054f" />
 
  **Churn rate by Credit score** 
 -	Credit scores can be a big indicator for potential churned customers. We divided customers to four different credit bands: bands with poor credit (lower than 500 points), fair credit (500- 650 points), good credit (650-750 points), and excellent credit (750+).   
 -	Customers with poor credit scores are more likely to churn by 10.1% when compared to customers with excellent credit scores. 
 -	Customers with fair, good and excellent credit scores have similar churn rates and there is no significant difference between them.
 
-  <img width="584" height="717" alt="image" src="https://github.com/user-attachments/assets/7b6f9ab6-cacd-45b3-acbf-9a4d5c2dd7e6" />
+  <img width="500" height="650" alt="image" src="https://github.com/user-attachments/assets/7b6f9ab6-cacd-45b3-acbf-9a4d5c2dd7e6" />
 
 **Churn rate by Inactive Months**
 -	This graph indicates churn rate by inactive months by members ranging from 0 months to 11 months   
 -	There is a huge shift in churn rate when customers reach 5 inactive months. Customers with 5 or more inactive months are more likely to get churned by 14-18% depending on number of inactive months.
 
-	 <img width="639" height="389" alt="image" src="https://github.com/user-attachments/assets/a75a5306-acbe-4250-8f29-e06b74151d4a" />
+	 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/a75a5306-acbe-4250-8f29-e06b74151d4a" />
 
 **Churn rate by Tenure Group**
 -   Customers with lower tenure tend to churn faster. New clients who use bank services for a year or less are 9% more likely to get churned compared to customers with higher tenure rates.
 
   ### <p align= 'center'> Multivariate Analysis
 
-<img width="450" height="130" alt="image" src="https://github.com/user-attachments/assets/d18b867d-3afa-406e-b0d2-6736fc0b1d75" />
+<img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/d18b867d-3afa-406e-b0d2-6736fc0b1d75" />
 
 <br>
 
