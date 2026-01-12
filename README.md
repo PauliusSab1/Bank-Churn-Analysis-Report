@@ -24,14 +24,14 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 -	## <p align= 'center'> Executive Summary
 
-	- **Churn is driven primarily by customer behavior rather than demographics.** 
+**Churn is driven primarily by customer behavior rather than demographics.** 
   -	Customers with short tenure, extended periods of inactivity and single product engagement exhibit significantly higher churn rates while location, gender or age does not have a big impact on churn. 
   
-- **Interaction analysis highlights that churn risk compounds when multiple risk factors occur together.**
+ **Interaction analysis highlights that churn risk compounds when multiple risk factors occur together.**
   - Customers who become inactive within their first year have a substantially higher probability of churning compared to long – tenure or consistently active customers.
 
 - **Business should focus on retention efforts:**
-  1. early customer engagement.
+  1.    early customer engagement.
   2.	implementing triggers for inactive members.
   3.	promoting multi – product adoption to increase customer retention.   
 
