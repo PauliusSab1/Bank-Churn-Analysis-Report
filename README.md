@@ -31,11 +31,40 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
   - Customers who become inactive within their first year have a substantially higher probability of churning compared to long – tenure or consistently active customers.
 
 - **Business should focus on retention efforts:**
-  1.    early customer engagement.
+  1.  early customer engagement.
   2.	implementing triggers for inactive members.
   3.	promoting multi – product adoption to increase customer retention.   
 
+## <p align= 'center'> Dataset Structure 
+
+The database structure as seen below consists of one table with a total row count of **5000** records.
+
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
+
+## <p align= 'center'> Target Variable Analysis (Churn)
 
 
+## <p align= 'center'> % Churned vs Retained Customers
+
+<img width="347" height="733" alt="image" src="https://github.com/user-attachments/assets/a995a919-bcdc-4e79-a5df-00019d800a89" />
+
+-	Out of 5000 customers, 1610 customers closed their accounts and left Citizen Savings Bank. This number indicates a **churn rate of 32.2%.** 
+-	Only **67.8%** of customers remained with business and continued to use Citizen Savings Bank services.  
+
+## <p align= 'center'> Insights Deep-Dive
+
+### <p align= 'center'> Churn by Category
+
+<img width="720" height="659" alt="image" src="https://github.com/user-attachments/assets/e45c1dfd-c6c7-4618-937f-0e590d0177c5" />
+
+	**Churn by Education and Geography** 
+-	Churn rate by education indicates similar rate for customers with high school (31%), masters (32%) and bachelor’s diploma (33%). On the other hand, customers with PhD education are more likely to churn (40%).  
+-	Location does not have a significant impact on churn. Customers from Germany, Spain and France have a very similar churn rate. 
+
+<img width="872" height="385" alt="image" src="https://github.com/user-attachments/assets/d80e14bc-b866-467e-9f3d-1fcdb7b32471" />
+
+**Churn by Member Activity and Possession of Credit Card** 
+-	Churn rate varies whether customer is an active member or not. On Average, nonactive members are more likely to get churned by more than 20% compared to active members.  
+-	Credit cards are not a significant factor for churn. Bank customers without a credit card are more likely to get churned only by 2.9% compared to a customer with a credit card.  
 
  
