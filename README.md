@@ -1,5 +1,5 @@
 
-<p align= 'center'> ![3-citizen-1024x1024](https://github.com/user-attachments/assets/de297744-d9ad-48ab-bb8d-3e87d123083b) />
+<p align= 'center'> <img width="240" height="190" alt="image" src= ![3-citizen-1024x1024](https://github.com/user-attachments/assets/de297744-d9ad-48ab-bb8d-3e87d123083b) />
 
 
 
