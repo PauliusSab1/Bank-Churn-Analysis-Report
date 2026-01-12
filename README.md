@@ -2,9 +2,6 @@
 <p align= 'center'> <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/de297744-d9ad-48ab-bb8d-3e87d123083b" />
 
 
-
-<p align= 'center'> <img width="240" height="190" alt="image" src="https://github.com/user-attachments/assets/f3c2dfa4-088b-4200-8f65-32e942cc9105" />
-
 # <p align= 'center'> Store Performance Report
 
 
