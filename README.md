@@ -49,6 +49,8 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
+<br>
+
 ## <p align= 'center'> Target Variable Analysis (Churn)
 
 ## <p align= 'center'> % Churned vs Retained Customers
