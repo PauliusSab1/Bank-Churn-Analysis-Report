@@ -107,7 +107,7 @@ The database structure as seen below consists of one table with a total row coun
 
   ### <p align= 'center'> Multivariate Analysis
 
-<img width="506" height="166" alt="image" src="https://github.com/user-attachments/assets/d18b867d-3afa-406e-b0d2-6736fc0b1d75" />
+<img width="450" height="130" alt="image" src="https://github.com/user-attachments/assets/d18b867d-3afa-406e-b0d2-6736fc0b1d75" />
 
 <br>
 
@@ -116,7 +116,7 @@ The database structure as seen below consists of one table with a total row coun
 -	Customers who have used bank services for more than 3 years and are active members possess a churn rate of 22% which is 10% less than the average churn rate.
 -	New inactive customers (with 12 or less months tenure) are very likely to leave business with 47% chance of churn.
 
-<img width="491" height="308" alt="image" src="https://github.com/user-attachments/assets/56bc9809-bdb3-4e79-834b-847493b960c1" />
+<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/56bc9809-bdb3-4e79-834b-847493b960c1" />
 
 <br>
 
