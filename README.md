@@ -59,7 +59,11 @@ The database structure as seen below consists of one table with a total row coun
 -	Out of 5000 customers, 1610 customers closed their accounts and left Citizen Savings Bank. This number indicates a **churn rate of 32.2%.** 
 -	Only **67.8%** of customers remained with business and continued to use Citizen Savings Bank services.  
 
+<br>
+
 ## <p align= 'center'> Insights Deep-Dive
+
+<br>
 
 ### <p align= 'center'> Churn by Category
 
