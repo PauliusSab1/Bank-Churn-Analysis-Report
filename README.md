@@ -55,11 +55,9 @@ The database structure as seen below consists of one table with a total row coun
 
 ## <p align= 'center'> % Churned vs Retained Customers
 
-<br>
-
 <img width="347" height="620" alt="image" src="https://github.com/user-attachments/assets/a995a919-bcdc-4e79-a5df-00019d800a89" />
 
--	Out of 5000 customers, 1610 customers closed their accounts and left Citizen Savings Bank. This number indicates a **churn rate of 32.2%.** 
+-	Out of **5000 customers**, **1610** customers closed their accounts and left Citizen Savings Bank. This number indicates a **churn rate of 32.2%.** 
 -	Only **67.8%** of customers remained with business and continued to use Citizen Savings Bank services.  
 
 <br>
