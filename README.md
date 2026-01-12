@@ -45,7 +45,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
 
 ## <p align= 'center'> Target Variable Analysis (Churn)
 
