@@ -45,7 +45,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/65971d9e-68a8-4d1d-86e6-8d6209f661b6" />
 
 ## <p align= 'center'> Target Variable Analysis (Churn)
 
@@ -99,6 +99,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <img width="506" height="166" alt="image" src="https://github.com/user-attachments/assets/d18b867d-3afa-406e-b0d2-6736fc0b1d75" />
 
+<br>
 
  **Tenure X inactivity level**
 -	Inactive and low tenure customers are more likely to get churned compared to active members with higher tenure. 
@@ -107,11 +108,15 @@ The database structure as seen below consists of one table with a total row coun
 
 <img width="491" height="308" alt="image" src="https://github.com/user-attachments/assets/56bc9809-bdb3-4e79-834b-847493b960c1" />
 
+<br>
+
 **Credit Score X Number Of Products**
 - 	Bank customers with excellent credit score and 4 products in use are less likely to get churned (9% less compared to average rate). 
 -	Number of products in use is not a significant factor for Bank customers with poor, fair or good credit. Number of products affects only 1-4% churn rate for this customer segment.
 
   <img width="488" height="131" alt="image" src="https://github.com/user-attachments/assets/20b82c44-da33-4287-8193-422725a31055" />
+
+<br>
 
 **Credit Score X Number Of Products**
 -	Inactive members of Citizen Savings Bank are more likely to get churned compared to active members in all three locations. 
@@ -128,8 +133,6 @@ The database structure as seen below consists of one table with a total row coun
 
 -	Customers inactive for 5+ months are more likely to get churned by 15-18%.
 	-	Establish inactivity trigger (for example, 3 months no activity) helping to re-engage distracted visitors with offers, support, or reminders before they leave.
-
-
 
 
 -	Customers with excellent credit score and 4 products churn at a much lower rate (23%) compared to average number (32%) 
