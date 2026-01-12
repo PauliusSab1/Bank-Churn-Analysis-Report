@@ -1,4 +1,4 @@
-<p align= 'center'> <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/de297744-d9ad-48ab-bb8d-3e87d123083b" />
+<p align= 'center'> <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/de297744-d9ad-48ab-bb8d-3e87d123083b" />
 
 # <p align= 'center'> Bank Churn Analysis Report
 
