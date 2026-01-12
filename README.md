@@ -138,16 +138,13 @@ The database structure as seen below consists of one table with a total row coun
 
 **Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis:**
   
--	Customers with short tenure (0-12months) show significantly higher churn – especially when combined with inactivity (47% churn rate). 
+-	**Customers with short tenure (0-12months) show significantly higher churn – especially when combined with inactivity (47% churn rate).** 
 	-	Business should launch a 90 – day onboarding & engagement program to reduce early-stage churn and increase long – term customer lifetime value. 
-
--	Customers inactive for 5+ months are more likely to get churned by 15-18%.
+-	**Customers inactive for 5+ months are more likely to get churned by 15-18%.**
 	-	Establish inactivity trigger (for example, 3 months no activity) helping to re-engage distracted visitors with offers, support, or reminders before they leave.
-
--	Customers with excellent credit score and 4 products churn at a much lower rate (23%) compared to average number (32%) 
+-	**Customers with excellent credit score and 4 products churn at a much lower rate (23%) compared to average number (32%)** 
 	-	Target customer segment with excellent credit score and offer business products such as savings account, credit card and low- risk financial tools because they are less likely to leave business. 
-
--	Customers with poor credit scores (39% churn rate) and low engagement (44% churn rate) represent the highest churn risk. 
+-	**Customers with poor credit scores (39% churn rate) and low engagement (44% churn rate) represent the highest churn risk.** 
 	-	Provide free credit score monitoring and improvement tips within the bank’s app.
 	-	Offer credit-building loan products and financial literacy resources to support customers with lower credit scores and low engagement. 
 
