@@ -64,7 +64,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-## <p align= 'center'> Insights Deep-Dive
+# <p align= 'center'> Insights Deep-Dive
 
 ## <p align= 'center'> Churn by Category
 
