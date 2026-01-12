@@ -1,4 +1,4 @@
-<p align= 'center'> <img width="220" height="200" alt="image" src="https://github.com/user-attachments/assets/f3c2dfa4-088b-4200-8f65-32e942cc9105" />
+<p align= 'center'> <img width="240" height="220" alt="image" src="https://github.com/user-attachments/assets/f3c2dfa4-088b-4200-8f65-32e942cc9105" />
 
 # <p align= 'center'> Store Performance Report
 
@@ -33,7 +33,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 - **Business should focus on retention efforts:**
   1. early customer engagement.
   2.	implementing triggers for inactive members.
-  -	promoting multi – product adoption to increase customer retention.   
+  3.	promoting multi – product adoption to increase customer retention.   
 
 
 
