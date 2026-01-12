@@ -107,7 +107,7 @@ The database structure as seen below consists of one table with a total row coun
 
   ### <p align= 'center'> Multivariate Analysis
 
-<img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/d18b867d-3afa-406e-b0d2-6736fc0b1d75" />
+<img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/d18b867d-3afa-406e-b0d2-6736fc0b1d75" />
 
 <br>
 
