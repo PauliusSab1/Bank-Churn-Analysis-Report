@@ -67,7 +67,7 @@ The database structure as seen below consists of one table with a total row coun
 
 ### <p align= 'center'> Churn by Category
 
-<img width="720" height="659" alt="image" src="https://github.com/user-attachments/assets/e45c1dfd-c6c7-4618-937f-0e590d0177c5" />
+<img width="500" height="580" alt="image" src="https://github.com/user-attachments/assets/e45c1dfd-c6c7-4618-937f-0e590d0177c5" />
 
 	**Churn by Education and Geography** 
 -	Churn rate by education indicates similar rate for customers with high school (31%), masters (32%) and bachelor’s diploma (33%). On the other hand, customers with PhD education are more likely to churn (40%).  
