@@ -66,7 +66,9 @@ The database structure as seen below consists of one table with a total row coun
 
 ## <p align= 'center'> Insights Deep-Dive
 
-### <p align= 'center'> Churn by Category
+## <p align= 'center'> Churn by Category
+
+<br>
 
 <br>
 
@@ -74,16 +76,15 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-**Churn by Education and Geography** 
-
 <br>
 
+**Churn by Education and Geography** 
 -	Churn rate by education indicates similar rate for customers with high school (31%), masters (32%) and bachelor’s diploma (33%). On the other hand, customers with PhD education are more likely to churn (40%).  
 -	Location does not have a significant impact on churn. Customers from Germany, Spain and France have a very similar churn rate. 
 
 <br>
 
-<img width="872" height="385" alt="image" src="https://github.com/user-attachments/assets/d80e14bc-b866-467e-9f3d-1fcdb7b32471" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d80e14bc-b866-467e-9f3d-1fcdb7b32471" />
 
 <br>
 
@@ -93,9 +94,13 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
- ### <p align= 'center'> Churn by Numerical Values
+ ## <p align= 'center'> Churn by Numerical Values
+
+<br>
 
  <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/7c122210-cce5-4588-a9f0-0cee16be054f" />
+
+<br>
 
 <br>
 
@@ -106,7 +111,9 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/7b6f9ab6-cacd-45b3-acbf-9a4d5c2dd7e6" />
+  <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/7b6f9ab6-cacd-45b3-acbf-9a4d5c2dd7e6" />
+
+<br>
 
 <br>
 
@@ -116,7 +123,7 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
-	 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/a75a5306-acbe-4250-8f29-e06b74151d4a" />
+<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/a75a5306-acbe-4250-8f29-e06b74151d4a" />
 
 <br>
 
@@ -145,6 +152,10 @@ The database structure as seen below consists of one table with a total row coun
 -	Number of products in use is not a significant factor for Bank customers with poor, fair or good credit. Number of products affects only 1-4% churn rate for this customer segment.
 
   <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/20b82c44-da33-4287-8193-422725a31055" />
+
+<br>
+
+<br>
 
 <br>
 
