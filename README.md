@@ -130,7 +130,9 @@ The database structure as seen below consists of one table with a total row coun
 **Churn rate by Tenure Group**
 -   Customers with lower tenure tend to churn faster. **New clients who use bank services for a year or less are 9% more likely to get churned** compared to customers with higher tenure rates.
 
-  ### <p align= 'center'> Multivariate Analysis (Interaction of 2 different variables)
+<br>
+
+  ## <p align= 'center'> Multivariate Analysis (Interaction of 2 different variables)
 
 <br>
 
