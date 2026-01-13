@@ -167,19 +167,19 @@ The database structure as seen below consists of one table with a total row coun
 
 ### Based on the uncovered insights, here are actionable items that Citizen Savings Bank can take away from our analysis:
   
-**1.Business Problem:** Customers with short tenure (0-12months) show significantly higher churn – especially when combined with inactivity (47% churn rate). 
+**1.Business Problem: Customers with short tenure (0-12months) show significantly higher churn – especially when combined with inactivity (47% churn rate).** 
 	
 -	Solution: Business should launch a 90 – day onboarding & engagement program to reduce early-stage churn and increase long – term customer lifetime value. 
 
-**2.Business Problem:** Customers inactive for 5+ months are more likely to get churned by 15-18%.
+**2.Business Problem: Customers inactive for 5+ months are more likely to get churned by 15-18%.**
 	
 -	Solution: Establish inactivity trigger (for example, 3 months no activity) helping to re-engage distracted visitors with offers, support, or reminders before they leave.
 
-**3.Business Problem:** Customers with excellent credit score and 4 products churn at a much lower rate (23%) compared to average number (32%) 
+**3.Business Problem: Customers with excellent credit score and 4 products churn at a much lower rate (23%) compared to average number (32%)** 
 	
 -	Solution: Target customer segment with excellent credit score and offer business products such as savings account, credit card and low- risk financial tools because they are less likely to leave business. 
 
-**4.Business Problem:** Customers with poor credit scores (39% churn rate) and low engagement (44% churn rate) represent the highest churn risk. 
+**4.Business Problem: Customers with poor credit scores (39% churn rate) and low engagement (44% churn rate) represent the highest churn risk.** 
 	
 -	Solution: Provide free credit score monitoring and improvement tips within the bank’s app as well as offer credit-building loan products and financial literacy resources to support customers with lower credit scores and low engagement. 
 
