@@ -159,13 +159,19 @@ The database structure as seen below consists of one table with a total row coun
 
 <br>
 
+
+
 **Location X active membership**
 -	Inactive members of Citizen Savings Bank are more likely to get churned compared to active members in all three locations. 
 -	In Spain, inactive members are more likely to get churned and leave business by 22%, France by 21% and Germany by 18% compared to active members.
+
+<br>
   
 ## <p align= 'center'> Recommendations
 
 ### Based on the uncovered insights, here are actionable items that Citizen Savings Bank can take away from our analysis:
+
+<br>
   
 **1.Business Problem: Customers with short tenure (0-12months) show significantly higher churn – especially when combined with inactivity (47% churn rate).** 
 	
